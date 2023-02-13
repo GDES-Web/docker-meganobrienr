@@ -27,6 +27,6 @@ services:
 volumes:
   mysql: {}
 
-
+#  password for wordpress site iMe_Rp7)SQ&6Z@@
 
   # im checking something
